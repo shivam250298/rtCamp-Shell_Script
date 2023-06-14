@@ -9,3 +9,4 @@
 5- Prompt the user to open example.com in a browser if all goes well and the site is up and healthy.
 6-Add another subcommand to enable/disable the site (stopping/starting the containers)
 7-Add one more subcommand to delete the site (deleting containers and local files).
+
