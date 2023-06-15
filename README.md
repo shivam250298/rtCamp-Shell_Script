@@ -132,3 +132,13 @@ main() {
 
 # Run the script with command-line arguments
 main "$@"
+
+_______________________________________________________________________________________________________________
+
+# How to run script & diffrent commands :
+
+1) Use nano/vi/vim editor {ex: nano rtCampWP.sh}
+2) We have to give execute permissions to the script {chmod +x rtCampWP.sh}
+3) To execute script use thus command - ./rtCampWP.sh
+
+_______________________________________________________________________________________________________________
