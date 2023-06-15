@@ -1,5 +1,6 @@
+__________________________________________________________________________________________________________________
 # rtCamp-Shell_Script
-
+__________________________________________________________________________________________________________________
 # Create a command-line script, preferably in Bash, PHP, Node, or Python to perform the following tasks:
 
 1- Check if docker and docker-compose is installed on the system. If not present, install the missing packages.
@@ -15,6 +16,8 @@
 6-Add another subcommand to enable/disable the site (stopping/starting the containers)
 
 7-Add one more subcommand to delete the site (deleting containers and local files).
+
+__________________________________________________________________________________________________________________
 
 #Solution =
 
